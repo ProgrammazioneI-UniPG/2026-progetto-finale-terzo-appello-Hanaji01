@@ -2,11 +2,11 @@
 # Progetto-finale-2025-Cosestrane
 Progetto finale Programmazione Procedurale UniPG Informatica
 
-## Nome: 
+## Nome: Hanaji
 
-## Cognome: 
+## Cognome: Tancrè
 
-## Matricola:
+## Matricola:354535
 
 ## Commenti/modifiche al progetto:
 
